@@ -1,4 +1,5 @@
 <?php
+ namespace ox\freenom;
 
 require_once 'Exception.php';
 

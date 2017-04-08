@@ -1,6 +1,7 @@
 <?php
+ namespace ox\freenom;
 
-class Freenom_Exception extends Exception
+class Freenom_Exception extends \Exception
 {
     public $errorArray = [];
     

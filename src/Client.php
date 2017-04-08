@@ -1,4 +1,5 @@
 <?php
+ namespace ox\freenom;
 
 class Freenom_Client
 {

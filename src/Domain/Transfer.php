@@ -1,4 +1,5 @@
 <?php
+ namespace ox\freenom;
 
 /**
  * Class Freenom_Domain_Transfer
