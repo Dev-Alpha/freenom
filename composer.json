@@ -1,0 +1,21 @@
+{
+  "name": "ox/freenom",
+  "license": "OxGroupMedia",
+  "authors": [
+    {
+      "name": "Aliaxander Tsihankou",
+      "email": "dev@oxgroup.media"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-2": {
+      "Ox\\DataBase\\": "src/"
+    },
+    "classmap": [
+      "src/"
+    ]
+  }
+}

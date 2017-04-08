@@ -28,7 +28,3 @@ Saved in file quickstart.php
     $domain      = new Freenom_Domain($client);
     $listDomains = $domain->listDomains(['maxResults'=>100]);
     var_dump($listDomains);
-  	
-You can view it by running php in terminal.
-
-    $ php {YOUR_FILE}.php
